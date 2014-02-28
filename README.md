@@ -8,8 +8,11 @@ sort
    >   quicksort(a,left,right)  
    >   i = partion(a,left,right);  
    >   i = partion1(a,left,right);  
+   
 2. mergesort 归并排序算法.
-   >   mergesort(a,l,h)
+
+   >   mergesort(a,l,h)               
    >   merged(a,l,q,h)
+
 
 
